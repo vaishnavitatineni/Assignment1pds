@@ -1,0 +1,20 @@
+Different kinds of insights have been facilitated by each of the analysis's visualizations:
+
+Math Scores by Gender in a Box Plot: It is simpler to examine the distribution of arithmetic scores between male and female students, spot outliers, and observe variations in median performance with this display.
+
+Average Reading Scores by Parental Education Level in a Bar Chart: This facilitates the analysis of the effects of varying parental education levels on pupils' reading scores and the identification of patterns or discrepancies.
+
+The violin plot, which displays variations more effectively than a box plot, aids in understanding the distribution and density of math scores for each parental education level.
+
+It is simpler to see the proportions and variations in lunch status (such as free/reduced or standard meal) across various parental education levels when the lunch status distribution by parental education level is displayed in a pie chart.
+
+ Swarm Plot-Math Score by Gender and Test Preparation Course: This provides a thorough analysis of individual data points, highlighting clustering patterns and demonstrating the effects of gender and test preparation on math results.
+
+ Every visualization improves a certain feature of the data, which facilitates the identification of comparisons, trends, and distributions.
+
+
+
+
+
+
+
